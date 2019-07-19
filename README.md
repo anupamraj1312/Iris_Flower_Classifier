@@ -3,7 +3,7 @@ Simple Classification program to predict the species of an iris flower using KNN
 
 **Software and Libraries**
 - Python 3.6.0
-- Anaconda 4.3.0 (32 bit)
+- Anaconda 4.3.0 (64 bit)
 - scikit-learn 0.18.1
 
 **Introduction**  
